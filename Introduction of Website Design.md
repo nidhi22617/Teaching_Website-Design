@@ -1,8 +1,8 @@
 # Introduction
 ## Welcome & Curriculum Overview
-    HTML (Hyper Text Markup Language) and CSS (Cascading Style Sheets) are the core building blocks of web design. Here’s a beginner-friendly look at each of these technologies and how they work together to make websites functional and visually appealing.
+HTML (Hyper Text Markup Language) and CSS (Cascading Style Sheets) are the core building blocks of web design. Here’s a beginner-friendly look at each of these technologies and how they work together to make websites functional and visually appealing.
 ### Basic HTML Tags
-    Here's a breakdown of some basic HTML tags you’ll likely use on every webpage:
+Here's a breakdown of some basic HTML tags you’ll likely use on every webpage:
 
 html
 
